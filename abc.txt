@@ -14,7 +14,8 @@ The Traditional Python Objects are
 				2. float			6. bytes		10. tuple		14. NoneType
 				3. bool				7. bytearray		11. set
 				4. complex			8. range		12.frozenset
-=====================================================================
+																	Sudeep
+
 
 
 
